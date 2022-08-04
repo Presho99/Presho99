@@ -5,3 +5,5 @@
 - 💬 Ask me about CSS and JavaScript
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love fictional stories
+
+[![Presho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Presho99)](https://github.com/Presho99/github-readme-stats)
