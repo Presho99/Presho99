@@ -9,4 +9,4 @@
 
 [![Presho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Presho99)](https://github.com/Presho99/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Presho99)](https://github.com/Presho99/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Presho99&langs_count=8)](https://github.com/Presho99/github-readme-stats)
