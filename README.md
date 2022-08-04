@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love fictional stories
 
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Presho99&repo=github-readme-stats)](https://github.com/Presho99/github-readme-stats)
 
 ![Presho99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Presho99&show_icons=true&theme=dark)
 
