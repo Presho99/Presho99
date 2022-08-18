@@ -13,3 +13,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Presho99&langs_count=8&theme=dark)](https://github.com/Presho99/github-readme-stats)
+
+<figure><embed src="https://wakatime.com/share/@893daf89-4304-4625-aef6-0ee10cae1a58/5a00da58-42fb-492a-a2c1-767cc24c35dc.svg"></embed></figure>
