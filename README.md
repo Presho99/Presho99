@@ -7,12 +7,17 @@
 - ⚡ Fun fact: I love fiction
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Presho99&langs_count=8&theme=dark)](https://github.com/Presho99/github-readme-stats)
 
 ![Presho99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Presho99&show_icons=true&theme=dark)
 
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Presho99&ring=fad02c&fire=fad02c&currStreakLabel=fad02c&background=1F222E&hide_border=true&sideNums=fff6ea&sideLabels=fff6ea&dates=fff6ea&currStreakNum=fff6ea" width="505"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Presho99&langs_count=8&theme=dark)](https://github.com/Presho99/github-readme-stats)
+
+
+
 
 <!--START_SECTION:waka-->
 
@@ -26,6 +31,3 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Presho99&ring=fad02c&fire=fad02c&currStreakLabel=fad02c&background=1F222E&hide_border=true&sideNums=fff6ea&sideLabels=fff6ea&dates=fff6ea&currStreakNum=fff6ea" width="405"/>
-</p>
