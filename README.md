@@ -20,6 +20,7 @@
 
 
 <!--START_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/893daf89-4304-4625-aef6-0ee10cae1a58.svg)](https://wakatime.com/@893daf89-4304-4625-aef6-0ee10cae1a58)
 
 ```text
 Ruby         11 hrs 11 mins  ███████████████████▓░░░░░   78.95 %
