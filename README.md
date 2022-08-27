@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Ruby
 - 💬 Ask me about CSS and JavaScript
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love fiction
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Presho99&langs_count=8&theme=dark)](https://github.com/Presho99/github-readme-stats)
