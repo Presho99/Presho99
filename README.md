@@ -14,6 +14,8 @@
 <p align="left">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Presho99&ring=fad02c&fire=fad02c&currStreakLabel=fad02c&background=000&hide_border=true&sideNums=fff6ea&sideLabels=fff6ea&dates=fff6ea&currStreakNum=fff6ea" width="505"/>
 </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Presho99&color=blueviolet alt=Precious/></p>
+
 
 
 
