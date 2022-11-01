@@ -4,14 +4,6 @@
 
 ![Presho99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Presho99&show_icons=true&theme=dark)
 
-
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=Presho99&color=blueviolet alt=Precious/></p>
-
-
-
-
-
-
 <!--START_SECTION:waka-->
 
 ```text
