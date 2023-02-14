@@ -7,7 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   0 secs          █████████████████████████   100.00 %
+JavaScript   6 mins          █████████████████████░░░░   84.50 %
+CSS          1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
