@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 CSS          3 hrs 35 mins   ███████████████░░░░░░░░░░   60.17 %
 JavaScript   2 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   37.04 %
 HTML         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
