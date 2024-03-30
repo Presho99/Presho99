@@ -7,11 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript    6 hrs 20 mins   ████████████▓░░░░░░░░░░░░   51.04 %
-CSS           5 hrs 57 mins   ████████████░░░░░░░░░░░░░   47.96 %
-Git Config    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-HTML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-TypeScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JavaScript   2 hrs 33 mins   █████████████▓░░░░░░░░░░░   55.17 %
+CSS          2 hrs 4 mins    ███████████▒░░░░░░░░░░░░░   44.72 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
