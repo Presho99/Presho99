@@ -7,9 +7,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript    3 hrs 37 mins   ██████████████████████░░░   87.40 %
-CSS           31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript   2 hrs 45 mins   █████████████████████▒░░░   85.38 %
+CSS          28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
 ```
 
 <!--END_SECTION:waka-->
