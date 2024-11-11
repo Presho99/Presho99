@@ -7,7 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   1 hr 11 mins    ███████████████████████▒░   92.69 %
+CSS          5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
