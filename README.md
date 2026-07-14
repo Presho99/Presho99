@@ -7,8 +7,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      0 secs                █████████████████▓░░░░░░░   70.50 %
-Markdown   0 secs                ███████▒░░░░░░░░░░░░░░░░░   29.50 %
+Other      22 mins               ████████████████████░░░░░   79.99 %
+Markdown   5 mins                █████░░░░░░░░░░░░░░░░░░░░   20.01 %
 ```
 
 <!--END_SECTION:waka-->
