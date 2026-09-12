@@ -7,9 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        1 hr 8 mins           ██████████████▒░░░░░░░░░░   57.93 %
-Markdown     48 mins               ██████████▒░░░░░░░░░░░░░░   41.23 %
-TypeScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Other        1 hr 14 mins          ██████████████░░░░░░░░░░░   55.56 %
+Markdown     48 mins               █████████░░░░░░░░░░░░░░░░   36.41 %
+TypeScript   10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
 ```
 
 <!--END_SECTION:waka-->
